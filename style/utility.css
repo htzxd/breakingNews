@@ -14,3 +14,19 @@
 .gap16 {
   gap: 1.6rem;
 }
+
+.txt-2xl {
+  font: var(--h1);
+}
+
+.txt-xl{
+  font: var(--h2);
+}
+
+.txt-md {
+  font: var(--h3);
+}
+
+.txt-sm {
+  font: var(--text-sm);
+}

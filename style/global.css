@@ -57,3 +57,14 @@ img {
 main {
   margin-top: 4rem;
 }
+
+.tags {
+  display: inline-block;
+  background-color: var(--brand-color-dark);
+  padding: .8rem;
+  border-radius: .8rem;
+  font: 500 1rem/1.2 var(--font-family);
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-color-primary);
+}
