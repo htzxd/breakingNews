@@ -50,11 +50,10 @@ h1, h2, h3 {
   font: inherit;
 }
 
-/* utility class*/
-.grid {
-  display: grid;
+img {
+  max-width: 100%;
 }
 
-.grid-flow {
-  grid-auto-flow: column;
+main {
+  margin-top: 4rem;
 }
